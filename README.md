@@ -20,3 +20,5 @@ Tech I Used:
 <b>Note: please clone this project in your local environment to see the demo</b>
 
 ![olx-portfolio-img1](https://user-images.githubusercontent.com/70833594/185860261-81b96cc4-894b-4cc3-9c5d-05b85a78002e.png)
+"# React_Project" 
+"# OLX_clone" 
